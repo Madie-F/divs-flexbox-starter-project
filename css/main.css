@@ -142,7 +142,7 @@ body {
   justify-content: center;
   line-height: 1.5em;
   margin: .75rem;
-  padding: .5rem;
+  padding: 1rem;
   text-align: justify;
   width: 30%;
 }
@@ -157,6 +157,10 @@ body {
     padding-left: 1rem;
     text-align: justify;
     width: 30%;
+}
+
+img {
+    max-width: 100%;
 }
 
 .div-3 {
